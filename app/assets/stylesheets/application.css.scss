@@ -10,7 +10,7 @@
 //-----------------------------------------
 // Imports
 //-----------------------------------------
-// @import "compass/css3";
+@import "compass/css3";
 @import "h5bp";
 
 //-----------------------------------------
@@ -22,11 +22,11 @@
 //-----------------------------------------
 // Custom application partials
 //-----------------------------------------
+@import "bootstrap_and_overrides";
+
 @import "application/chromeframe";
 @import "application/document";
 @import "application/media_queries"; // Media queries last
-@import "bootstrap_and_overrides";
-@import "index";
 //-----------------------------------------
 // Append includes
 //-----------------------------------------
