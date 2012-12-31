@@ -130,6 +130,7 @@ DEPENDENCIES
   coffee-rails
   compass-h5bp
   compass-rails
+  haml
   haml-bootstrap-rails
   html5-rails
   jquery-rails

@@ -5,6 +5,7 @@ gem 'pg'
 
 group :assets do
   gem 'jquery-rails'
+  gem 'haml'
   gem 'haml-bootstrap-rails'
   gem 'html5-rails'
   gem 'sass-rails'
